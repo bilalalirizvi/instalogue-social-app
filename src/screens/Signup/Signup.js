@@ -292,7 +292,7 @@ const Signup = () => {
             alt=""
           />
         </Box>
-        <Box sx={{ fontSize: "12px" }}>
+        {/* <Box sx={{ fontSize: "12px" }}>
           <a className={classes.aTag} href="/">
             Meta
           </a>
@@ -341,7 +341,7 @@ const Signup = () => {
           }}
         >
           English © 2022 Instagram from Meta
-        </Box>
+        </Box> */}
       </Box>
     </>
   );

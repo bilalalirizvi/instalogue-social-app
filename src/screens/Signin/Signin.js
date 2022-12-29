@@ -250,7 +250,7 @@ const Signin = () => {
             alt=""
           />
         </Box>
-        <Box sx={{ fontSize: "12px" }}>
+        {/* <Box sx={{ fontSize: "12px" }}>
           <a className={classes.aTag} href="/">
             Meta
           </a>
@@ -290,8 +290,8 @@ const Signin = () => {
           <a className={classes.aTag} href="/">
             Contact Uploading & Non-Users
           </a>
-        </Box>
-        <Box
+        </Box> */}
+        {/* <Box
           sx={{
             color: "rgb(157,145,145)",
             fontSize: "12px",
@@ -299,7 +299,7 @@ const Signin = () => {
           }}
         >
           English © 2022 Instagram from Meta
-        </Box>
+        </Box> */}
       </Box>
     </>
   );
